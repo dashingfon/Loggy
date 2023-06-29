@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.10"
 welly = "^0.5.2"
 scikit-learn = "^1.2.2"
+ipykernel = "^6.23.1"
+jupyter = "^1.0.0"
+dlisio = "^0.3.7"
 
 
 [build-system]

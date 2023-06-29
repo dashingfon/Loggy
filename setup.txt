@@ -1,0 +1,3 @@
+to create new python kernel
+
+python -m ipykernel install --user --name=<kernel_name>
